@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/seat-account/seat-account.iml" filepath="$PROJECT_DIR$/seat-account/seat-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seat-order/seat-order.iml" filepath="$PROJECT_DIR$/seat-order/seat-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seat-storage/seat-storage.iml" filepath="$PROJECT_DIR$/seat-storage/seat-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-seata.iml" filepath="$PROJECT_DIR$/springcloud-seata.iml" />
+    </modules>
+  </component>
+</project>
